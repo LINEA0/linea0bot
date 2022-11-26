@@ -1,0 +1,30 @@
+{
+  "name": "linea0bot",
+  "version": "1.0.0",
+  "description": "A discord.js bot implementation for linea0 channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LINEA0/linea0bot.git"
+  },
+  "keywords": [
+    "discord.js",
+    "bot"
+  ],
+  "author": "linea0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LINEA0/linea0bot/issues"
+  },
+  "homepage": "https://github.com/LINEA0/linea0bot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
+}
